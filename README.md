@@ -1,1 +1,1 @@
-+ [Ссылка на проект](https://teejay74.github.io/react10-1/)
++ [Ссылка на проект](https://teejay74.github.io/react10_1/)
